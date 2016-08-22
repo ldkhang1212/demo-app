@@ -1,9 +1,2 @@
-<<<<<<< 056321ebe7ff70af75676a87f5af4d9addee0ce2
 added line in feature_a branch
 added line 2 in feature_a branch
-<<<<<<< 93acd1f54aae6fe6e38b432886535108b88ee891
-=======
->>>>>>> Add a line in test1.txt
-added in release_1 branch
-=======
->>>>>>> Add line 1 in test1.txt
