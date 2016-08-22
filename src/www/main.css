@@ -1,0 +1,47 @@
+html {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  font-size: 13px;
+  line-height: 20px;
+}
+
+
+/* In our CSS file */
+.muidocs-checkbox-example {
+  background-color: #673AB7;
+}
+
+.container {
+    width: 100%;
+}
+
+.form-horizontal {
+    margin: auto;
+    margin-top: 20px;
+	border: 3px solid green;
+    padding: 20px;
+}
+
+
+@media screen and (min-width: 480px) {
+    .form-horizontal {
+    	margin-top: 10px;
+   	 	width: 30%;
+	}
+}
+
+.signinFormButton {
+    width: 100%;
+}
+
+.signinFormHeader {
+	font-size: 24px;
+	 margin: auto;
+	 padding: 10px;
+	 text-align: center
+}
+
+
+
